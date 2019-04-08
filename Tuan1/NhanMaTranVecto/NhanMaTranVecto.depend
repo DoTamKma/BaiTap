@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553596915 source:d:\tam_c++\nhanmatranvecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

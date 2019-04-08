@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553524791 source:d:\tam_c++\xoakytu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

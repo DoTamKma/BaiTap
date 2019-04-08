@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553276362 source:d:\tam_c++\bai 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

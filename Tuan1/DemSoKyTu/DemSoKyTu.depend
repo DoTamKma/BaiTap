@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553278664 source:d:\tam_c++\demsokytu\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
