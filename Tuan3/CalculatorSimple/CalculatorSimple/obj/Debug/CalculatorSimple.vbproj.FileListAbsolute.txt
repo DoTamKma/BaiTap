@@ -1,0 +1,20 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\bin\Debug\CalculatorSimple.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\bin\Debug\CalculatorSimple.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\bin\Debug\CalculatorSimple.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.Form1.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\CalculatorSimple\obj\Debug\CalculatorSimple.pdb
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.exe
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.xml
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.pdb
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\ResolveAssemblyReference.cache
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.Form1.resources
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.Resources.resources
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.vbproj.GenerateResource.Cache
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.exe
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.pdb
+D:\TÁM\Tuan3\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.xml
