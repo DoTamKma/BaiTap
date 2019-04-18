@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555541268 source:d:\t¡m\tam_c++\menubaitap\menubaitap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"..\Lib\DemSoKyTu.h"
+	"..\Lib\UCLNBCNN.h"
+	"..\Lib\Bai1_DSLK.h"
+
+1555539254 d:\t¡m\tam_c++\lib\demsokytu.h
+
+1555539854 d:\t¡m\tam_c++\lib\uclnbcnn.h
+
+1555540985 d:\t¡m\tam_c++\lib\bai1_dslk.h
+
