@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556104996 source:d:\t¡m\tuan4\exsemaphore\exsemaphore.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<pthread.h>
+	<semaphore.h>
+
