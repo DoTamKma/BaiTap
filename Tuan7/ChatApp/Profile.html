@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="C:\xampp\htdocs\ChatApp\css\makeup2.css">
+</head>
+<body>
+	<div class="wrapper">
+		<div class="heading">
+			<a href="#" class="chat" >CHAT</a>
+			<a href="#" class="profile"><img src="C:\xampp\htdocs\ChatApp\img\profile.png" alt="ava"><p>Profile</p></a>
+			<a href="#" class="profile"><img src="C:\xampp\htdocs\ChatApp\img\512px-Signin_font_awesome.svg.png" alt="ava"><p>Logout</p></a>
+		</div>
+
+		<div class="body-chat">
+			<div class="body-profile">
+				<div class="text-profile">
+					<h3>Profile</h3>
+				</div>
+				<div id="picture">
+					<div class="upload-picture">
+						<img src="C:\xampp\htdocs\ChatApp\img\profile.png">
+						<p><button id="upload">Upload Picture</button></p>
+					</div>
+					<div id="information">
+					<table>
+						<tr>
+							<td>Name:</td>
+							<td id="text">Jeremy Rose</td>
+						</tr>
+						<tr>
+							<td>Username:</td>
+							<td id="text">Jeremy Rose</td>
+						</tr>
+						<tr>
+							<td>Email:</td>
+							<td id="text">JeremyRose@gmail.com</td>
+						</tr>
+						<tr>
+							<td>Phone:</td>
+							<td id="text">0123456789</td>
+						</tr>
+						<tr>
+							<td>Birthday:</td>
+							<td id="text">June 5, 1992</td>
+						</tr>
+					</table>
+					</div>
+				</div>
+				<div class="submit">
+					<button onclick="alert('Thay đổi thành công!')" id="update">Update Profile</button>
+					<button onclick="alert('Thay đổi thành công!')" id="change-pass">Change Password</button>
+				</div>
+			</div>
+			<div>
+				<vr/>
+			</div>
+			<div class="body-change">
+
+				<div class="text-profile">
+					<h3>Change Password</h3>
+				</div>
+				<div class="table-change">
+					<table>
+						<tr>
+							<td>Password</td>
+							<td><input type="Password" name="Password" value="" id="password"></td>
+						</tr>
+						<tr>
+							<td>New password</td>
+							<td><input type="Password" name="Password" value="" id="password"></td>
+						</tr>
+						<tr>
+							<td>Confirm password</td>
+							<td><input type="Password" name="Password" value="" id="password"></td>
+						</tr>
+					</table>
+				</div>
+				<div id="updating">
+					<button onclick="alert('Thay đổi thành công!')">Update</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</body>
+</html>

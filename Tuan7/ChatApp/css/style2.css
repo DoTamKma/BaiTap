@@ -1,0 +1,48 @@
+*{
+	display: block;
+	border: none;
+}
+#fregister{
+	border-style: square;
+	border: solid #000000;
+	width: 520px;
+	height: 430px;
+	position: 575px 209px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+	font-size: 28;
+}
+label{
+	width: 62px;
+	height: 21px;
+	size: auto;
+	margin-top: 10px;
+	font-size: 13;
+	margin-left: 10px;
+}
+input{
+	width: 214px;
+	height: 27px;
+	border-style:solid;
+	margin-top: 10px;
+	font-size: 13;
+	margin: 0 auto;
+}
+select{
+	width: 58px;
+	height: 25px;
+	border: solid;
+	margin-left: 30%;
+}
+button{
+	width: 75px;
+	height: 27px;
+	position: 713px 513px;
+	margin-left: 40%;
+	margin-top: 10px;
+	border: solid;
+	box-shadow: 0px 0px 1px 1px;
+}

@@ -1,0 +1,46 @@
+.wrap{
+	display: block;
+	border: none;
+}
+#form-login{
+	border-style: square;
+	border: solid #000000;
+	width: 395px;
+	height: 308px;
+	position: 560px 319px;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+}
+label{
+	width: 62px;
+	height: 21px;
+	size: auto;
+	margin-left: 20px;
+}
+input#txtusername{
+	width: 214px;
+	height: 27px;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-left: 10px;
+	border: solid;
+}
+input#txtpassword{
+	width: 214px;
+	height: 27px;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	margin-left: 10px;
+	border: solid;
+}
+button{
+	width: 56px;
+	height: 27px;
+	position: 713px 513px;
+	margin-left: 40%;
+	border: solid;
+	box-shadow: 0px 0px 1px 1px;
+}
