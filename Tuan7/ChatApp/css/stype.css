@@ -1,46 +1,106 @@
-.wrap{
-	display: block;
-	border: none;
+body{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url(https://photo2.tinhte.vn/data/attachment-files/2013/04/3338558_field_6-wallpaper-1920x1080.jpg);
 }
-#form-login{
-	border-style: square;
-	border: solid #000000;
-	width: 395px;
-	height: 308px;
-	position: 560px 319px;
-	background-color: #ffffff;
+.login-form{
 	margin: 0 auto;
+	height: 450px;
+	width: 350px;
+	background: #fff;
+	margin-top: 60px;
+	z-index
 }
-h1{
+.heading-menu{
+	height: 100px;
+	width: 300px;
+	margin: 0 auto;
+	background: #66bb6a;
+	border-radius: 10px 10px 10px 10px;
+	position: absolute;
+	margin-top:-20px;
+	margin-left: 10px;
+	padding: 15px;
+	z-index: 2;
+}
+.inforpage{
+	height: 270px;
+	width: 350px;
+	padding-top: 100px;
 	text-align: center;
 }
-label{
-	width: 62px;
-	height: 21px;
-	size: auto;
-	margin-left: 20px;
+.textclass{
+	height: 30px;
+	font-size: 18px;
+	color: #eee;
+	margin: 0 auto;
 }
-input#txtusername{
-	width: 214px;
-	height: 27px;
-	margin-top: 30px;
-	margin-bottom: 60px;
-	margin-left: 10px;
-	border: solid;
+.form-size{
+	height: 240px;
+	font-size: auto;
+	color: #eee;
 }
-input#txtpassword{
-	width: 214px;
-	height: 27px;
-	margin-top: 10px;
-	margin-bottom: 60px;
-	margin-left: 10px;
-	border: solid;
+.row1{
+	height: 60px;
+	width: 350px;
 }
-button{
-	width: 56px;
-	height: 27px;
-	position: 713px 513px;
-	margin-left: 40%;
-	border: solid;
-	box-shadow: 0px 0px 1px 1px;
+.row1 img{
+	height: 30px;
+	width: 30px;
+	margin: 0 auto;
+}
+.submit{
+	height: 80px;
+	text-align: center;
+	margin: 0 auto;
+}
+.button{
+	border:none;
+	background: #fff;
+	color: #66bb6a;
+	height: 70px;
+	font-size: 18px;
+}
+#txt{
+	width: 250px;
+	margin: 20px 0px;
+	border: none;
+	border-bottom: 1px solid #1abc9c;
+	transition: all 0.1s cubic-bezier(0.25,0.8,0.25,1);
+	background-repeat: no-repeat;
+	color: #66bb6a;
+	padding: 10px 0;
+}
+#txt input:focus, input:valid {
+  	box-shadow: none;
+  	outline: none;
+  	background-position: 0 0;
+}
+#txt input:focus::-webkit-input-placeholder, input:valid::-webkit-input-placeholder {
+  	color: #1abc9c;
+  	font-size: 13px;
+  	transform: translateY(-5px);
+}
+h1{
+	height: 60px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #fff;
+}
+#contact{
+	height: 40px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;	
+}
+#contact img{
+	margin-left: 30px;
+	width: 25px;
+	height: 25px;
+	border-radius: 15px 15px 15px 15px;
 }

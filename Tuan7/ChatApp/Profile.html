@@ -8,9 +8,12 @@
 <body>
 	<div class="wrapper">
 		<div class="heading">
-			<a href="#" class="chat" >CHAT</a>
-			<a href="#" class="profile"><img src="C:\xampp\htdocs\ChatApp\img\profile.png" alt="ava"><p>Profile</p></a>
-			<a href="#" class="profile"><img src="C:\xampp\htdocs\ChatApp\img\512px-Signin_font_awesome.svg.png" alt="ava"><p>Logout</p></a>
+			<span><a href="#" class="chat" >CHAT</a></span>
+			<span class="row2">
+				<a href="#" class="profile"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Wikipedia_User-ICON_byNightsight.png" alt="ava"><p>Profile</p></a>
+				<a href="#" class="exit"><img src="http://cdn.onlinewebfonts.com/svg/img_211158.png" alt="ava"><p>Logout</p></a>
+			</span>
+			
 		</div>
 
 		<div class="body-chat">
@@ -20,7 +23,7 @@
 				</div>
 				<div id="picture">
 					<div class="upload-picture">
-						<img src="C:\xampp\htdocs\ChatApp\img\profile.png">
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lhEz8CHx5VAd0_ZsEskHTV54jkIPet5PKrbQ6oHQGb_tkHODJw">
 						<p><button id="upload">Upload Picture</button></p>
 					</div>
 					<div id="information">
@@ -47,14 +50,12 @@
 						</tr>
 					</table>
 					</div>
-				</div>
+				
 				<div class="submit">
 					<button onclick="alert('Thay đổi thành công!')" id="update">Update Profile</button>
 					<button onclick="alert('Thay đổi thành công!')" id="change-pass">Change Password</button>
 				</div>
 			</div>
-			<div>
-				<vr/>
 			</div>
 			<div class="body-change">
 
@@ -64,15 +65,15 @@
 				<div class="table-change">
 					<table>
 						<tr>
-							<td>Password</td>
+							<td id="column">Password</td>
 							<td><input type="Password" name="Password" value="" id="password"></td>
 						</tr>
 						<tr>
-							<td>New password</td>
+							<td id="column">New password</td>
 							<td><input type="Password" name="Password" value="" id="password"></td>
 						</tr>
 						<tr>
-							<td>Confirm password</td>
+							<td id="column">Confirm password</td>
 							<td><input type="Password" name="Password" value="" id="password"></td>
 						</tr>
 					</table>

@@ -1,45 +1,57 @@
 <!DOCTYPE html>
-<html lang="utf-8">
+<html lang="en">
 <head>
-	<title></title>
+	<title>Đăng ký</title>
+	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="C:\xampp\htdocs\ChatApp\css\style2.css">
 </head>
 <body>
-	<div class="wrap">
-		<h1>REGISTER</h1>
-		<div id="fregister">
-			<form action="login-form.html" name="fregister" method="post" >
-				<div>
-					<label>Email</label>
-					<input id="Email" type="text" name="Email" value="">
+	<div class="wrapper">
+		<div class="login-form">
+			<div class="heading-menu">
+				<div id="textlogin">
+					<h1>Register</h1>
 				</div>
-				<div>
-					<label>Username</label>
-					<input type="text" name="Username" value="" id="Username">
+				<div id="contact">
+					<a href="#"><img src="https://cdn.pixabay.com/photo/2017/12/06/04/57/twitter-3000965_960_720.png"></a>
+					<a href="#"><img src="https://png.pngtree.com/element_our/md/20180515/md_5afaf0c4b6017.jpg"></a>
+					<a href="#"><img src="https://img.icons8.com/color/420/gmail.png"></a>
 				</div>
-				<div>
-					<label>Fullname</label>
-					<input type="text" name="Fullname" value="" id="Fullname">
+			</div>
+			<div class="inforpage">
+				<div class="textclass">
+					<p>Or Be Classicle</p>
 				</div>
-				<div>
-					<label>Gender</label>
-					<select name="Gender" id="Gender">
-						<option value="Male">Male</option>
-						<option value="Fmale">Fmale</option>
-					</select>
+				<div class="form-size">
+					<div class="row1">
+						<span><img src="http://stikesmucis.ac.id/dist/img/user.png"></span>
+						<span>
+							<input id="txt" type="text" name="firstname" placeholder="FirstName....">
+						</span>
+					</div>
+					<div class="row1">
+						<span><img src="http://sprayway.cnvn.asia/vnt_upload/news/10_2016/message_icon_clipart_best_9xVl7Z_clipart.png"></span>
+						<span>
+							<input  id="txt" type="text" name="txtEmail" placeholder="Email....">
+						</span>
+					</div>
+
+					<div class="row1">
+						<span><img src="https://giaiphone8.files.wordpress.com/2015/08/5a226-unnamed.png?w=1200"></span>
+						<span>
+							<input  id="txt" type="Password" name="txtPassword" placeholder="Password....">
+						</span>
+					</div>
+
+					<div class="row2">
+						<span><input type="checkbox" name="checkbox">I agree to the terms and conditions</span>
+
+					</div>
 				</div>
-				<div>
-					<label>Password</label>
-					<input id="Password" type="Password" name="Password" value="">
-				</div>
-				<div>
-					<label>Confirm Password</label>
-					<input id="Confirm" type="Password" name="Confirm" value="">
-				</div>
-				<div>
-					<button onclick="alert('Cam on ban da dang ky tai khoan')">Register</button>
-				</div>
-			</form>
+			</div>
+			<div class="submit">
+				<button class="button" name="login">Get started</button>
+			</div>
 		</div>
 	</div>
 </body>
